@@ -1,0 +1,10 @@
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab8\Lab8MSSM\Lab8MSSM\bin\Debug\Lab8MSSM.exe.config
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab8\Lab8MSSM\Lab8MSSM\bin\Debug\Lab8MSSM.exe
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab8\Lab8MSSM\Lab8MSSM\bin\Debug\Lab8MSSM.pdb
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab8\Lab8MSSM\Lab8MSSM\obj\Debug\Lab8MSSM.csprojAssemblyReference.cache
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab8\Lab8MSSM\Lab8MSSM\obj\Debug\Lab8MSSM.MainForm.resources
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab8\Lab8MSSM\Lab8MSSM\obj\Debug\Lab8MSSM.Properties.Resources.resources
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab8\Lab8MSSM\Lab8MSSM\obj\Debug\Lab8MSSM.csproj.GenerateResource.cache
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab8\Lab8MSSM\Lab8MSSM\obj\Debug\Lab8MSSM.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab8\Lab8MSSM\Lab8MSSM\obj\Debug\Lab8MSSM.exe
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab8\Lab8MSSM\Lab8MSSM\obj\Debug\Lab8MSSM.pdb
